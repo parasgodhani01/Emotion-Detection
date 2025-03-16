@@ -1,5 +1,7 @@
-streamlit
 tensorflow
+pandas
+matplotlib
+seaborn
 numpy
 Pillow
 keras
