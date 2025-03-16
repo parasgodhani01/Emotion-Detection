@@ -23,11 +23,11 @@ The final model was deployed using **Gradio**, enabling an interactive web-based
 
 ## Here is a predicted images on this project
 #### Original - Happy , Predicred - Happy
-<img src="predicted Images/happy.png" width="1000"/>
+<img src="predictedImages/happy.png" width="1000"/>
 <br>  
 
 #### Original - Sad , Predicred - Neutral
-<img src="predicted Images/neutral.png" width="1200"/>
+<img src="predictedImages/neutral.png" width="1200"/>
 
 #### Original - Angry , Predicred - Angry
-<img src="predicted Images/angry.png" width="1200"/>
+<img src="predictedImages/angry.png" width="1200"/>
