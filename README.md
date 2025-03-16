@@ -22,12 +22,12 @@ This project focuses on emotion detection using deep learning models trained on 
 The final model was deployed using **Gradio**, enabling an interactive web-based interface.
 
 ## Here is a predicted images on this project
-#### Original - Happy , Predicred - Happy
+#### Original - Happy , Predicted - Happy
 <img src="predictedImages/happy.png" width="1000"/>
 <br>  
 
-#### Original - Sad , Predicred - Neutral
+#### Original - Sad , Predicted - Neutral
 <img src="predictedImages/neutral.png" width="1200"/>
 
-#### Original - Angry , Predicred - Angry
+#### Original - Angry , Predicted - Angry
 <img src="predictedImages/angry.png" width="1200"/>
