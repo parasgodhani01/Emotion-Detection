@@ -1,0 +1,8 @@
+tensorflow
+pandas
+matplotlib
+seaborn
+numpy
+Pillow
+keras
+gradio
